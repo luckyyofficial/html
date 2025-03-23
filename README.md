@@ -13,7 +13,7 @@ Welcome to the **HTML Notes Repository**, a structured and comprehensive resourc
 This repository provides **well-organized** and **concise** HTML notes, covering key concepts, best practices, and real-world examples. Whether you're a **beginner** learning HTML or an **experienced developer** looking for quick references, these notes will serve as a valuable resource.  
 
 <div align="center">
-  <img src="https://blog-media.byjusfutureschool.com/bfs-blog/2021/11/12170200/HTML-for-Kids-Article-Page.png" width="120">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="120">
 </div>
 
 ---
