@@ -52,8 +52,8 @@ If you’d like to suggest improvements or add content:
 ---
 
 ## 📬 Contact & Connect  
-🌎 **Name:** [Lakshay](#)  
-📧 **Email:** [your@email.com](#)  
+🌎 **Name:** [Lucky](#)  
+📧 **Email:** [lakshayjofficial@gmail.com](#)  
 
 ---
 
