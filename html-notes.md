@@ -49,3 +49,50 @@ Every HTML document begins with a standard structure that helps browsers interpr
 
 </html>
 <!-- End of HTML document -->
+# HTML Elements and Headings
+
+## What Are HTML Elements?
+
+An **HTML element** is a fundamental building block of an HTML document. It consists of a **pair of tags** that enclose content. These tags define the **type and properties** of the content.
+
+Each element typically includes:
+- An **opening tag**
+- The **content**
+- A **closing tag**
+
+Some elements are **self-closing** and do not require a closing tag.
+
+### Examples
+
+```html
+<!-- Normal HTML Element with opening and closing tags -->
+<h1>This is a heading</h1>
+
+<!-- Self-closing tag -->
+<br>
+
+# What Are Headings in HTML?
+
+In HTML, **headings** are used to define the **structure and hierarchy** of the content on a web page. They help organize the content and improve **readability** for both users and search engines.
+
+Headings range from the **most important** to the **least important**, using six levels:
+
+- `<h1>` – Main heading
+- `<h2>` – Subheading
+- `<h3>` – Section heading
+- `<h4>` – Subsection
+- `<h5>` – Minor subsection
+- `<h6>` – Least important heading
+
+These tags give semantic meaning to your content and should be used to reflect the content structure logically.
+
+---
+
+## Example
+
+Here is an example of a heading level 1 (`<h1>`) and heading level 6 (`<h6>`):
+
+```html
+<!-- Headings Example -->
+<h1>This is heading 1</h1>
+<h6>This is heading 6</h6>
