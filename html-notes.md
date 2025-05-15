@@ -87,7 +87,7 @@ Headings range from the **most important** to the **least important**, using six
 These tags give semantic meaning to your content and should be used to reflect the content structure logically.
 
 ---
-
+  
 ## Example
 
 Here is an example of a heading level 1 (`<h1>`) and heading level 6 (`<h6>`):
