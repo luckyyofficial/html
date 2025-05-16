@@ -15,9 +15,9 @@ HTML (**HyperText Markup Language**) is the standard markup language used to cre
 # 🧱 Basic HTML Document Structure (with Comments)
 
 Every HTML document begins with a standard structure that helps browsers interpret and render the content properly.
-
----
-
+  
+---  
+  
 ## 📄 Standard HTML Template with Detailed Comments
 
 ```html
