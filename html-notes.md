@@ -7,7 +7,7 @@ HTML (**HyperText Markup Language**) is the standard markup language used to cre
 - It's the **foundation** of every webpage.
 - Works hand-in-hand with **CSS** (for styling) and **JavaScript** (for interactivity).
 - HTML is **not a programming language** — it's a **markup language**.
-
+  
 ### 📘 Example:
 ```html
 <h1>This is a Heading</h1>
